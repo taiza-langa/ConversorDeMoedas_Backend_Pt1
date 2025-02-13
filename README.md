@@ -13,7 +13,7 @@ Este é um aplicativo de conversão de moedas desenvolvido com React (Vite) no f
 - Axios: Requisições para o backend.
 - Hooks (useState, useEffect): Gerenciamento de estado.
 
-##🔧 Como Rodar o Projeto
+## 🔧 Como Rodar o Projeto
 
 📌 Pré-requisitos
 - Node.js e npm instalados.
