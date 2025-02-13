@@ -46,9 +46,13 @@ Inicie o servidor React:
 npm run dev
 ```
 
-📷 Preview
+## 📷 Preview
+
 ![image](https://github.com/user-attachments/assets/5816262b-153a-4afe-9d2a-5af6a0744ddc)
+
 ![image](https://github.com/user-attachments/assets/5229f459-371e-49fb-a1bc-6f72a4064d3d)
+
 ![image](https://github.com/user-attachments/assets/57f328f6-d223-4178-9ebb-3b8dc17da471)
+
 
 
